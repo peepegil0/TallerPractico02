@@ -7,7 +7,7 @@ let $vault := doc("retro_vault.xml")
 let $html :=
 <html>
 <head>
-    <link rel="stylesheet" href="estilo.css"/>
+    <link rel="stylesheet" href="style.css"/>
     <title>Informe Consolidado Retro Vault</title>
 </head>
 <body>
